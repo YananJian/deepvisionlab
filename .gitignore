@@ -1,0 +1,3 @@
+*.pyc
+testvideos/
+.DS_Store
